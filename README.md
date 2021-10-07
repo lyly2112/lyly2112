@@ -23,7 +23,7 @@
   <img src="https://sherstobitova.netlify.app/static/media/wordpress.4d16b40d.svg" alt="wordpress" height="50"/>
 </div>
 
-📫 How to reach me: <br>
+### Reach me 📫 
 [![linkedin-fill](https://user-images.githubusercontent.com/31433730/97636407-4f6b1880-19f6-11eb-915a-737b76f52c9f.png)][1]
 [![global-line](https://user-images.githubusercontent.com/31433730/97636511-79243f80-19f6-11eb-9376-b0d2427bd2e5.png)][2]
 
