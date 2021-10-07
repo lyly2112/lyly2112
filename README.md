@@ -3,7 +3,7 @@
 <!--
 **lyly2112/lyly2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### I am Liliya, hard-working web developer 💪
+### I am Liliya, hard-working web developer 💪 living my best life
 - ❤️ Passion for creating responsive web apps using JavaScript & React. 
 - 💻 Strong background in building elegant WordPress websites. 
 - ✔️ Expertise in Test Automation via Selenium methodology. 
