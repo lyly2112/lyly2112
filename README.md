@@ -4,8 +4,10 @@
 **lyly2112/lyly2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on website to help a local auto repair business survive during pandemic and keep service clients after a 20 years
-- 🌱 I’m currently learning Sauce Labs
+- 💪 Hard-working web developer with a passion for creating responsive web apps using JavaScript & React. 
+- 💻 Strong background in building elegant WordPress websites. 
+- ✔️ Expertise in Test Automation via Selenium methodology. 
+- 📈 Constant learner of the web development trends.
 
 Languages and Tools: <br>
 ![icons8-java-52](https://user-images.githubusercontent.com/31433730/97638602-2482c380-19fa-11eb-924c-d3e0f111780e.png)
