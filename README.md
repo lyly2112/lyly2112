@@ -11,7 +11,16 @@
 
 ### My skills
 <div>
-  
+  <img src="https://sherstobitova.netlify.app/static/media/react.24bb1669.svg" alt="react" height="50"/>
+  <img src="https://sherstobitova.netlify.app/static/media/js.a6ed75d9.svg" alt="js" height="50"/>
+  <img src="https://sherstobitova.netlify.app/static/media/java.ecef1139.svg" alt="java" height="50"/>
+  <img src="https://sherstobitova.netlify.app/static/media/html.3fa0bb9e.svg" alt="html" height="50"/>
+  <img src="https://sherstobitova.netlify.app/static/media/css.0911617e.svg" alt="css" height="50"/>
+  <img src="https://sherstobitova.netlify.app/static/media/sass.6a06234b.svg" alt="sass" height="50"/>
+  <img src="https://sherstobitova.netlify.app/static/media/vs.33f0dadc.svg" alt="vs" height="50"/>
+  <img src="https://sherstobitova.netlify.app/static/media/figma.52043f31.svg" alt="figma" height="50"/>
+  <img src="https://sherstobitova.netlify.app/static/media/selenium.f690f650.svg" alt="selenium" height="50"/>
+  <img src="https://sherstobitova.netlify.app/static/media/wordpress.4d16b40d.svg" alt="wordpress" height="50"/>
 </div>
 
 📫 How to reach me: <br>
