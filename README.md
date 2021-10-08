@@ -25,6 +25,6 @@
 
 ### Reach me 📫 
 
-<a href="https://www.linkedin.com/in/liliya-sherstobitova-322a4b125/"><img src="https://user-images.githubusercontent.com/31433730/97636407-4f6b1880-19f6-11eb-915a-737b76f52c9f.png" alt="linkedin" height="30" /></a>
-<a href="https://sherstobitova.netlify.app/"><img src="https://user-images.githubusercontent.com/31433730/97636511-79243f80-19f6-11eb-9376-b0d2427bd2e5.png" alt="portfolio" height="30" />
-</a>
+<a href="https://www.linkedin.com/in/liliya-sherstobitova-322a4b125/"><img src="https://i2.paste.pics/E95K8.png" alt="linkedin" height="30" /></a>
+<a href="https://sherstobitova.netlify.app/"><img src="https://i2.paste.pics/E95JE.png" alt="portfolio" height="30" /></a>
+<a href="mailto: abc@example.com"><img src="https://i2.paste.pics/d4a41d144057528ca2d464d749217a1f.png" alt="email" height="30" /></a>
