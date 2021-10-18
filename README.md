@@ -20,7 +20,7 @@
   <img src="https://sherstobitova.netlify.app/static/media/vs.33f0dadc.svg" alt="vs" height="50"/>
   <img src="https://sherstobitova.netlify.app/static/media/figma.52043f31.svg" alt="figma" height="50"/>
   <img src="https://sherstobitova.netlify.app/static/media/selenium.f690f650.svg" alt="selenium" height="50"/>
-  <img src="https://sherstobitova.netlify.app/static/media/wordpress.4d16b40d.svg" alt="wordpress" height="60"/>
+  <img src="https://sherstobitova.netlify.app/static/media/wordpress.4d16b40d.svg" alt="wordpress" height="55"/>
 </div>
 
 ### Reach me 📫 
