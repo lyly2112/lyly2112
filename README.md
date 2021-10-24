@@ -3,7 +3,7 @@
 <!--
 **lyly2112/lyly2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### I am Liliya, a hard-working web developer 💪 
+### I am Liliya, a hard-working web developer
 ❤️ Passion for creating responsive web apps using JavaScript & React.  
 💻 Strong background in building elegant WordPress websites.  
 ✔️ Expertise in Test Automation via Selenium methodology.  
@@ -23,7 +23,7 @@
   <img src="https://sherstobitova.netlify.app/static/media/wordpress.4d16b40d.svg" alt="wordpress" height="55"/>
 </div>
 
-### Reach me 📫 
+### Reach me
 
 <a href="https://www.linkedin.com/in/liliya-sherstobitova-322a4b125/" target="_blank"><img src="https://i2.paste.pics/E95K8.png" alt="linkedin" height="30" /></a>
 <a href="https://liliya.us/" target="_blank"><img src="https://i2.paste.pics/E95JE.png" alt="portfolio" height="30" /></a>
