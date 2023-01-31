@@ -9,6 +9,7 @@
 
 ### My skills
 <div>
+  <img src="https://raw.githubusercontent.com/lyly2112/Portfolio2021/88be1191c920d97ec9bea9a0104a7b54572754fa/src/images/icons/angular.svg" alt="angular" height="50"/>
   <img src="https://sherstobitova.netlify.app/static/media/react.24bb1669.svg" alt="react" height="50"/>
   <img src="https://sherstobitova.netlify.app/static/media/js.a6ed75d9.svg" alt="js" height="50"/>
   <img src="https://sherstobitova.netlify.app/static/media/java.ecef1139.svg" alt="java" height="50"/>
@@ -18,8 +19,7 @@
   <img src="https://sherstobitova.netlify.app/static/media/vs.33f0dadc.svg" alt="vs" height="50"/>
   <img src="https://sherstobitova.netlify.app/static/media/figma.52043f31.svg" alt="figma" height="50"/>
   <img src="https://sherstobitova.netlify.app/static/media/selenium.f690f650.svg" alt="selenium" height="50"/>
-  <img src="https://sherstobitova.netlify.app/static/media/wordpress.4d16b40d.svg" alt="wordpress" height="55"/>
-  <img src="https://raw.githubusercontent.com/lyly2112/Portfolio2021/88be1191c920d97ec9bea9a0104a7b54572754fa/src/images/icons/angular.svg" alt="angular" height="55"/>
+  
 
   
 </div>
