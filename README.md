@@ -4,7 +4,7 @@
 **lyly2112/lyly2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ### I am Liliya, software developer
-❤️ Passion for creating responsive web apps using JavaScript & Angular/React 
+❤️ Passion for creating responsive web apps using JavaScript & Angular/React  
 📈 Constant learner of the web development trends
 
 ### My skills
